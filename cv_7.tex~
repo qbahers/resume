@@ -36,6 +36,8 @@
 
 \usepackage{verbatim}
 
+\usepackage{bbding}
+
 %----------------------------------------------------------------------------------------
 %	NAME AND CONTACT INFORMATION SECTION
 %----------------------------------------------------------------------------------------
@@ -126,7 +128,7 @@ Detailed achievements:
 
 \subsection{Projects}
 
-\cventry{2013--Present}{Project CS}{}{Uppsala University}{}{Ongoing collaboration with Ericsson Research on applications within sensor networks and how, in a not too distant future, in a "Social Web of Things" or "Internet of Things" we can interact in a user-friendly way with thousands of connected devices.}
+\cventry{2013--Present}{Internet of Things Framework}{}{Uppsala University}{}{Ongoing collaboration with Ericsson Research on applications within sensor networks and how, in a not too distant future, in a "Social Web of Things" or "Internet of Things" we can interact in a user-friendly way with thousands of connected devices.}
 
 %----------------------------------------------------------------------------------------
 %	AWARDS SECTION
@@ -145,9 +147,15 @@ Detailed achievements:
 
 \section{Computer skills}
 
+\begin{comment}
 \cvitem{Basic}{\textsc{java}, Adobe Illustrator}
 \cvitem{Intermediate}{\textsc{python}, \textsc{html}, \LaTeX, OpenOffice, Linux, Microsoft Windows}
 \cvitem{Advanced}{Computer Hardware and Support}
+\end{comment}
+
+\cvcomputer{Ruby}{\FiveStar\FiveStar\FiveStar\FiveStar\FiveStarOpen}{Linux}{\FiveStar\FiveStar\FiveStar\FiveStar\FiveStarOpen}
+\cvcomputer{Rails}{\FiveStar\FiveStar\FiveStar\FiveStarOpen\FiveStarOpen}{Git}{\FiveStar\FiveStar\FiveStar\FiveStarOpen\FiveStarOpen}
+\cvcomputer{C\texttt{++}}{\FiveStar\FiveStar\FiveStarOpen\FiveStarOpen\FiveStarOpen}{Scala}{\FiveStar\FiveStar\FiveStarOpen\FiveStarOpen\FiveStarOpen}
 
 %----------------------------------------------------------------------------------------
 %	COMMUNICATION SKILLS SECTION
