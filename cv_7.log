@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.6)  6 NOV 2013 14:07
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.6)  7 NOV 2013 10:26
 entering extended mode
  %&-line parsing enabled.
 **cv_7.tex
@@ -470,51 +470,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 75.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 78.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 75.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 78.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 75.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 78.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 75.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 78.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 75.
+(Font)              <10.95> on input line 78.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 75.
+(Font)              <8> on input line 78.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 75.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 75.
+(Font)              <6> on input line 78.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 110.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 116.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 1867) in paragraph at lines 110--110
+Underfull \hbox (badness 1867) in paragraph at lines 116--116
 []\T1/lmss/m/n/10 (+20) Developed spread-sheets for risk anal-y-sis on ex-otic 
 deriva-tives on a wide ar-ray
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
  []
 
@@ -523,48 +521,46 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 110.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 116.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 110.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 116.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 110.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 160.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 116.
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 162.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 148.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./cv_7.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 166.
+ [2] (./cv_7.aux) ) 
 Here is how much of TeX's memory you used:
- 9000 strings out of 493848
- 129812 string characters out of 1152823
+ 8998 strings out of 493848
+ 129767 string characters out of 1152823
  335800 words of memory out of 3000000
- 12058 multiletter control sequences out of 15000+50000
- 73640 words of font info for 72 fonts, out of 3000000 for 9000
+ 12055 multiletter control sequences out of 15000+50000
+ 70936 words of font info for 72 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 46i,13n,67p,766b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX w
-arning (dest): name{section*.8} has been referenced but does not exist, replace
-d by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvip
-s/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/t
-exmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-ssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm/lms
-y10.pfb></usr/share/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_7.pdf (2 pages, 184251 bytes).
+ 42i,12n,67p,766b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/t
+exmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/l
+mcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss1
+7.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/marvosy
+m/marvosym.pfb>
+Output written on cv_7.pdf (2 pages, 186797 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 27713 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 27705 words of extra memory for PDF output out of 29859 (max. 10000000)
 
