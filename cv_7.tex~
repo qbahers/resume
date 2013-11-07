@@ -78,7 +78,8 @@
 \cventry{2013--2014}{MSc in Computer Science}{Uppsala University}{}{Sweden}{}  % Arguments not required can be left empty
 \cventry{2010--2014}{MSc in Information Technologies}{T\'el\'ecom Bretagne}{}{France}{}
 \cventry{2011}{Student exchange program}{The University of Hong Kong}{}{China}{Courses in Computer Science, Economics, Management and Mandarin Chinese.}
-\cventry{2007--2010}{CPGE Lyc\'ee Chateaubriand}{}{}{France}{Intensive courses in advanced Mathematics and Physics to prepare for the highly selective entrance exams to the French "Grandes Ecoles". \\Equivalent to a BSc in Mathematics and Physics}
+\cventry{2007--2010}{CPGE Lyc\'ee Chateaubriand}{}{}{France}{Intensive courses in advanced Mathematics and Physics to prepare for the highly selective entrance exams to the French "Grandes Ecoles". 
+\\Equivalent to a BSc in Mathematics and Physics.}
 
 \begin{comment}
 \section{Masters Thesis}
@@ -162,9 +163,13 @@ Detailed achievements:
 
 \section{Languages}
 
-\cvitemwithcomment{English}{Mothertongue}{}
-\cvitemwithcomment{Spanish}{Intermediate}{Conversationally fluent}
-\cvitemwithcomment{Dutch}{Basic}{Basic words and phrases only}
+% \cvitemwithcomment{English}{Mothertongue}{}
+% \cvitemwithcomment{Spanish}{Intermediate}{Conversationally fluent}
+% \cvitemwithcomment{Dutch}{Basic}{Basic words and phrases only}
+
+\cvcomputer{French}{Mother tongue}{Chinese}{Basic}
+\cvcomputer{English}{Proficient}{Japanese}{Basic}
+\cvcomputer{Spanish}{Basic}{}{}
 
 %----------------------------------------------------------------------------------------
 %	INTERESTS SECTION
