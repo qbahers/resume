@@ -95,9 +95,11 @@
 
 \section{Experience}
 
-\subsection{Vocational}
+\cventry{2012--2013}{Software Engineer Intern}{\textsc{Orange}}{Tokyo}{Japan}{Worked on web applications (back-end \& front-end)
+\\ Developed a Windows 8 app
+\\ Prototyped a face tracking system using Kinect}
 
-\cventry{2012--Present}{1\textsuperscript{st} Year Analyst}{\textsc{Lehman Brothers}}{Los Angeles}{}{Developed spreadsheets for risk analysis on exotic derivatives on a wide array of commodities (ags, oils, precious and base metals), managed blotter and secondary trades on structured notes, liaised with Middle Office, Sales and Structuring for bookkeeping.
+\begin{comment}
 \newline{}\newline{}
 Detailed achievements:
 \begin{itemize}
@@ -114,16 +116,17 @@ Detailed achievements:
 \end{itemize}
 \item Broke the office record for number of kitten pictures in cubicle
 \end{itemize}}
+\end{comment}
 
 %------------------------------------------------
 
-\cventry{2010--2011}{Summer Intern}{\textsc{Lehman Brothers}}{Los Angeles}{}{Rated "truly distinctive" for Analytical Skills and Teamwork.}
+\cventry{2010--2011}{Summer Intern}{\textsc{Orange}}{Lannion}{France}{Improved an algorithm designed for context-aware networks}
 
 %------------------------------------------------
 
-\subsection{Miscellaneous}
+\subsection{Projects}
 
-\cventry{2008--2009}{Computer Repair Specialist}{Buy More}{Burbank}{}{Worked in the Nerd Herd and helped to solve computer problems by asking customers to turn their computers off and on again.}
+\cventry{2013--Present}{Project CS}{}{Uppsala University}{}{Ongoing collaboration with Ericsson Research on applications within sensor networks and how, in a not too distant future, in a "Social Web of Things" or "Internet of Things" we can interact in a user-friendly way with thousands of connected devices.}
 
 %----------------------------------------------------------------------------------------
 %	AWARDS SECTION
@@ -175,6 +178,7 @@ Detailed achievements:
 %	INTERESTS SECTION
 %----------------------------------------------------------------------------------------
 
+\begin{comment}
 \section{Interests}
 
 \renewcommand{\listitemsymbol}{-~} % Changes the symbol used for lists
@@ -182,6 +186,7 @@ Detailed achievements:
 \cvlistdoubleitem{Piano}{Chess}
 \cvlistdoubleitem{Cooking}{Dancing}
 \cvlistitem{Running}
+\end{comment}
 
 %----------------------------------------------------------------------------------------
 %	COVER LETTER
