@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.6)  7 NOV 2013 11:54
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.6)  22 NOV 2013 11:15
 entering extended mode
  %&-line parsing enabled.
 **cv_7.tex
@@ -503,16 +503,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 102.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 103.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for U+ding on input line 156.
+LaTeX Font Info:    Try loading font information for U+ding on input line 157.
 (/usr/share/texmf-texlive/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 158.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 159.
 
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
@@ -521,22 +521,22 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (/usr/share/texmf-texlive/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 223.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 224.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 223.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 224.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv_7.aux) ) 
 Here is how much of TeX's memory you used:
- 9149 strings out of 493848
- 131998 string characters out of 1152823
+ 9143 strings out of 493848
+ 131936 string characters out of 1152823
  337988 words of memory out of 3000000
- 12205 multiletter control sequences out of 15000+50000
+ 12199 multiletter control sequences out of 15000+50000
  53244 words of font info for 61 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  51i,12n,67p,766b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -550,9 +550,9 @@ blic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/shar
 e/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_7.pdf (1 page, 186710 bytes).
+Output written on cv_7.pdf (1 page, 185525 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
- 20521 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 20481 words of extra memory for PDF output out of 20736 (max. 10000000)
 
