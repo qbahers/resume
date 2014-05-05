@@ -1,17 +1,11 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.6)  22 NOV 2013 11:39
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.5)  5 MAY 2014 14:40
 entering extended mode
  %&-line parsing enabled.
 **cv_7.tex
 (./cv_7.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
-ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
-9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
-skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
-orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
-, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
-rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+yphenation, loaded.
 (./moderncv.cls
 Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter d
 ocument class
@@ -235,8 +229,7 @@ Package ifvtex Info: VTeX not detected.
 \Gm@odd@mp=\dimen109
 \Gm@even@mp=\dimen110
 \Gm@dimlist=\toks20
-
-(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+)
 (/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks21
@@ -417,7 +410,7 @@ twocolumn: --
 twoside: --
 asymmetric: --
 h-parts: 74.68848pt, 0.75\paperwidth , 74.68849pt
-v-parts: 84.50467pt, 0.75\paperheight , 126.75705pt
+v-parts: 67.60269pt, 0.80\paperheight , 101.4041pt
 hmarginratio: 1:1
 vmarginratio: 2:3
 lines: --
@@ -432,10 +425,10 @@ driver: pdftex
 \paperwidth  597.50787pt
 \paperheight 845.04684pt
 \textwidth  448.1309pt
-\textheight 633.78513pt
+\textheight 676.04005pt
 \oddsidemargin  2.41849pt
 \evensidemargin 2.41849pt
-\topmargin  -24.76532pt
+\topmargin  -41.6673pt
 \headheight 12.0pt
 \headsep    25.0pt
 \footskip   30.0pt
@@ -503,16 +496,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 103.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 102.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for U+ding on input line 157.
+LaTeX Font Info:    Try loading font information for U+ding on input line 160.
 (/usr/share/texmf-texlive/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 159.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 162.
 
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
@@ -521,28 +514,28 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (/usr/share/texmf-texlive/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 224.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 227.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 224.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 227.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv_7.aux) ) 
 Here is how much of TeX's memory you used:
- 9149 strings out of 493848
- 131998 string characters out of 1152823
- 337988 words of memory out of 3000000
- 12205 multiletter control sequences out of 15000+50000
+ 9146 strings out of 495061
+ 131825 string characters out of 1182622
+ 338008 words of memory out of 3000000
+ 12106 multiletter control sequences out of 15000+50000
  53244 words of font info for 61 fonts, out of 3000000 for 9000
- 714 hyphenation exceptions out of 8191
+ 28 hyphenation exceptions out of 8191
  51i,12n,67p,766b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/
 texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-
-ec.enc} </home/quentin/.texmf-var/fonts/pk/ljfour/public/bbding/bbding10.600pk>
+ec.enc} </home/qbahers/.texmf-var/fonts/pk/ljfour/public/bbding/bbding10.600pk>
 </usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/pu
@@ -550,7 +543,7 @@ blic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/shar
 e/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_7.pdf (1 page, 187052 bytes).
+Output written on cv_7.pdf (1 page, 188142 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
