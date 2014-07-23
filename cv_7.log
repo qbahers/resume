@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.5)  16 JUL 2014 22:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.5)  23 JUL 2014 23:37
 entering extended mode
  %&-line parsing enabled.
 **cv_7.tex
@@ -409,7 +409,7 @@ landscape: --
 twocolumn: --
 twoside: --
 asymmetric: --
-h-parts: 74.68848pt, 0.75\paperwidth , 74.68849pt
+h-parts: 65.72623pt, 0.78\paperwidth , 65.72624pt
 v-parts: 67.60269pt, 0.80\paperheight , 101.4041pt
 hmarginratio: 1:1
 vmarginratio: 2:3
@@ -424,10 +424,10 @@ driver: pdftex
 -------------------- Page layout dimensions and switches
 \paperwidth  597.50787pt
 \paperheight 845.04684pt
-\textwidth  448.1309pt
+\textwidth  466.0554pt
 \textheight 676.04005pt
-\oddsidemargin  2.41849pt
-\evensidemargin 2.41849pt
+\oddsidemargin  -6.54376pt
+\evensidemargin -6.54376pt
 \topmargin  -41.6673pt
 \headheight 12.0pt
 \headsep    25.0pt
@@ -501,11 +501,11 @@ LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for U+ding on input line 160.
+LaTeX Font Info:    Try loading font information for U+ding on input line 161.
 (/usr/share/texmf-texlive/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 162.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 163.
 
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
@@ -514,23 +514,23 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 (/usr/share/texmf-texlive/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 227.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 228.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 227.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 228.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv_7.aux) ) 
 Here is how much of TeX's memory you used:
- 9146 strings out of 495061
- 131825 string characters out of 1182622
+ 9142 strings out of 495061
+ 131779 string characters out of 1182622
  338008 words of memory out of 3000000
  12106 multiletter control sequences out of 15000+50000
- 53244 words of font info for 61 fonts, out of 3000000 for 9000
+ 53042 words of font info for 59 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  51i,12n,67p,766b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/
@@ -543,7 +543,7 @@ blic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/shar
 e/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_7.pdf (1 page, 188142 bytes).
+Output written on cv_7.pdf (1 page, 188128 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
