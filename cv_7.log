@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.5)  11 AUG 2014 17:42
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.5)  8 SEP 2014 16:40
 entering extended mode
  %&-line parsing enabled.
 **cv_7.tex
@@ -493,6 +493,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 81.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 81.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 103.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
@@ -501,27 +503,29 @@ LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for U+ding on input line 162.
-(/usr/share/texmf-texlive/tex/latex/bbding/Uding.fd
-File: Uding.fd 1996/02/01 v1.0 BBding font definitions
-)
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 164.
-
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 110.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 110.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
+LaTeX Font Info:    Try loading font information for U+ding on input line 169.
+
+(/usr/share/texmf-texlive/tex/latex/bbding/Uding.fd
+File: Uding.fd 1996/02/01 v1.0 BBding font definitions
+)
 (/usr/share/texmf-texlive/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 229.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 236.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 229.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 236.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -533,11 +537,11 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv_7.aux) ) 
 Here is how much of TeX's memory you used:
- 9147 strings out of 495061
- 131869 string characters out of 1182622
- 338053 words of memory out of 3000000
- 12110 multiletter control sequences out of 15000+50000
- 56273 words of font info for 61 fonts, out of 3000000 for 9000
+ 9163 strings out of 495061
+ 132117 string characters out of 1182622
+ 337053 words of memory out of 3000000
+ 12117 multiletter control sequences out of 15000+50000
+ 62676 words of font info for 68 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  51i,12n,67p,766b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/
@@ -549,10 +553,11 @@ r/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/shar
-e/texmf-texlive/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_7.pdf (1 page, 189004 bytes).
+e/texmf/fonts/type1/public/lm/lmtti10.pfb></usr/share/texmf-texlive/fonts/type1
+/public/marvosym/marvosym.pfb>
+Output written on cv_7.pdf (1 page, 202257 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 90 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
- 21033 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 23593 words of extra memory for PDF output out of 24883 (max. 10000000)
 
