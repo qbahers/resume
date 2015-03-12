@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.5)  12 FEB 2015 01:06
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.5)  12 MAR 2015 20:36
 entering extended mode
  %&-line parsing enabled.
 **cv_7.tex
@@ -543,11 +543,11 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv_7.aux) ) 
 Here is how much of TeX's memory you used:
- 9201 strings out of 495061
- 132702 string characters out of 1182622
+ 9199 strings out of 495061
+ 132659 string characters out of 1182622
  338053 words of memory out of 3000000
- 12143 multiletter control sequences out of 15000+50000
- 74048 words of font info for 81 fonts, out of 3000000 for 9000
+ 12141 multiletter control sequences out of 15000+50000
+ 73729 words of font info for 80 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  51i,12n,67p,766b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/
@@ -561,9 +561,9 @@ share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmtti10.pfb></usr/share/texmf-texlive/fonts/type1
 /public/marvosym/marvosym.pfb>
-Output written on cv_7.pdf (1 page, 208735 bytes).
+Output written on cv_7.pdf (1 page, 208793 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
- 27177 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 26665 words of extra memory for PDF output out of 29859 (max. 10000000)
 
